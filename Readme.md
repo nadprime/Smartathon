@@ -22,3 +22,5 @@ Although there are clear rules for manual diagnosis and assessment of asphalt di
 <b>TEAM NAME - The Alchemists</b>
 </br>
 <i>platform - HackerEarth</i>
+
+<img src="./t1.png">
