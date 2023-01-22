@@ -2,7 +2,7 @@
 
 # Organisation name - SDAIA
 
-# Detection and evaluation of the following elements on street imagery taken from a moving vehicle
+# Theme-1 - Detection and evaluation of the following elements on street imagery taken from a moving vehicle
 
 Since visual pollution is a relatively recent issue compared to other forms of environmental contamination, study is needed to define, formalize, measure, and evaluate it from many angles. This competition aims to establish a new field of automated visual pollution classification, utilizing the technological prowess of the twenty-first century for environmental management applications.
 By training and testing approaches to convolutional neural networks, we expect competitors to simulate the human learning experience in the context of picture identification for the classification of visual pollutants.
@@ -12,7 +12,7 @@ If successful, you’ll make a significant contribution towards stimulating furt
 
 </br>
 
-# Pothole severity classification via computer vision
+# Theme 2- Pothole severity classification via computer vision
 
 The majority of current pavement condition assessment techniques are labor-intensive and manual. Existing techniques for identifying and evaluating potholes rely on 3D surface reconstruction, which is expensive in terms of both hardware and compute, or on acceleration data, which only yields preliminary results. We are looking for teams to propose a low-cost method for automatically identifying potholes and judging their severity using vision-based data for both 2D and 3D reconstruction.
 Utilizing the visual and spatial qualities of potholes as well as the measurement parameters (width, quantity, and depth) that are used to estimate pothole severity, we would like tounderstand how both 2D and 3D reconstruction can be combined to improve recognition results. While the width and depth of the potholes are determined using 3D reconstruction, the number and location of potholes is determined using 2D recognition.
@@ -32,3 +32,5 @@ Although there are clear rules for manual diagnosis and assessment of asphalt di
 
 # Theme 2
 <img width="944" alt="t2" src="https://user-images.githubusercontent.com/103782863/213915691-3ab2e54a-77ab-42cc-89fa-f8b00ea6a049.png">
+
+Presentaion [Link](https://youtu.be/cgbVq7jmqOw)
