@@ -1,3 +1,7 @@
+# SMARTATHON'23
+
+# Organisation name - SDAIA
+
 # Detection and evaluation of the following elements on street imagery taken from a moving vehicle
 
 Since visual pollution is a relatively recent issue compared to other forms of environmental contamination, study is needed to define, formalize, measure, and evaluate it from many angles. This competition aims to establish a new field of automated visual pollution classification, utilizing the technological prowess of the twenty-first century for environmental management applications.
@@ -15,3 +19,5 @@ Utilizing the visual and spatial qualities of potholes as well as the measuremen
 Data gathering, distress identification and classification, and distress evaluation are the three steps in the pavement assessment process. Modern data collection techniques are being quickly replaced by inspection vehicles. These inspection vehicles can gather data at speeds of up to 60 mph (96 km/h), thanks to their numerous sensors, which include cameras for surface imaging, optical sensors for distance measurement, laser scanners for profiling, ultrasonic sensors for rutting detection, and accelerometers for roughness measurements. The second and third processes of distress classification and assessment are still mostly manual despite the automation of the data collection procedure. Currently, technicians manually examine the collected data to determine the existence of distresses and gauge their severity from the computer screen. Such a labor-intensive manual method might become unsystematic due to the volume of data that needs to be collected, which eventually lowers the assessment's quality.
 Although there are clear rules for manual diagnosis and assessment of asphalt distress, the technicians' experience affects the assessment's outcome. A hybrid imaging device that combines digital cameras and infrared lasers to capture continuous images of lines projected by infrared lasers is based on 3D surface profiles from time-of-flight laser scanners to classify and quantify pavement deterioration. These commercial software programs do not, however, count or identify all the potholes that have been spotted.
 
+<b>TEAM NAME - The Alchemists</b>
+<i>platform - HackerEarth</i>
