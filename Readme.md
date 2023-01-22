@@ -20,4 +20,5 @@ Data gathering, distress identification and classification, and distress evaluat
 Although there are clear rules for manual diagnosis and assessment of asphalt distress, the technicians' experience affects the assessment's outcome. A hybrid imaging device that combines digital cameras and infrared lasers to capture continuous images of lines projected by infrared lasers is based on 3D surface profiles from time-of-flight laser scanners to classify and quantify pavement deterioration. These commercial software programs do not, however, count or identify all the potholes that have been spotted.
 
 <b>TEAM NAME - The Alchemists</b>
+</br>
 <i>platform - HackerEarth</i>
