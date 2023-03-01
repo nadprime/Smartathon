@@ -11,12 +11,12 @@ In this competition, you will build and optimize algorithms based on a large-sca
 If successful, you’ll make a significant contribution towards stimulating further development city planning and empowering communities around the world.
 
 <p align="center">
-<img width="900" height="430" alt="flow" src="https://user-images.githubusercontent.com/103782863/222289273-a21942ef-c17e-461d-a6d4-4ea5cec68a55.jpg">
+<img width="900" height="650" alt="flow" src="https://user-images.githubusercontent.com/103782863/222289273-a21942ef-c17e-461d-a6d4-4ea5cec68a55.jpg">
 </p>
 
-
+<p align="center">
 <img width="895" alt="Screenshot_20230122_174442" src="https://user-images.githubusercontent.com/103782863/222286968-6f98fdab-42ac-4652-bf81-ecede2c00f81.png">
-
+</p>
 
 
 </br>
