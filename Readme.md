@@ -10,13 +10,13 @@ Additionally this will be useful for the development of a "visual pollution scor
 In this competition, you will build and optimize algorithms based on a large-scale dataset. This dataset features the raw sensor camera inputs as perceived by a fleet of multiple vehicles in arestricted geographic area in KSA
 If successful, you’ll make a significant contribution towards stimulating further development city planning and empowering communities around the world.
 
-<p align="center">
-<img width="900" height="650" alt="flow" src="https://user-images.githubusercontent.com/103782863/222289273-a21942ef-c17e-461d-a6d4-4ea5cec68a55.jpg">
-</p>
 
 <p align="center">
 <img width="895" alt="Screenshot_20230122_174442" src="https://user-images.githubusercontent.com/103782863/222286968-6f98fdab-42ac-4652-bf81-ecede2c00f81.png">
 </p>
+
+<img width="940" alt="output" src="https://user-images.githubusercontent.com/103782863/222291060-3dc77ddd-862b-47ca-bbbb-21916feca180.png">
+
 
 
 </br>
