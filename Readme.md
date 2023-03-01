@@ -1,5 +1,8 @@
 # SMARTATHON'23
 
+![68c697c880-new_one_2](https://user-images.githubusercontent.com/103782863/222293617-5c25f588-9b45-40ff-ae17-6a8655a9e073.png)
+
+
 # Organisation name - SDAIA
 
 # Theme-1 - Detection and evaluation of the following elements on street imagery taken from a moving vehicle
@@ -32,6 +35,10 @@ Although there are clear rules for manual diagnosis and assessment of asphalt di
 
 
 
+
 <b>TEAM NAME - The Alchemists</b>
+
+<img width="722" alt="Screenshot_20230120_233855" src="https://user-images.githubusercontent.com/103782863/222293870-ad264070-8e16-4285-b0e3-4aa7235495a2.png">
+
 </br>
 <i>platform - HackerEarth</i>
