@@ -46,4 +46,4 @@ YouTube Video [Link](https://youtu.be/YE0uxKLqgm8)
 <img width="722" alt="Screenshot_20230120_233855" src="https://user-images.githubusercontent.com/103782863/222293870-ad264070-8e16-4285-b0e3-4aa7235495a2.png">
 
 </br>
-<i>platform - HackerEarth</i>
+<i>We sucessfully developed a complete solution for both the themes in 10 days</i>
