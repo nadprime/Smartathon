@@ -24,7 +24,7 @@ If successful, you’ll make a significant contribution towards stimulating furt
 <p align="center">
 <img width="940" alt="output" src="https://user-images.githubusercontent.com/103782863/222291060-3dc77ddd-862b-47ca-bbbb-21916feca180.png">
 </p>
-
+[Repository Link](https://github.com/nadprime/VisPol)
 YouTube Video [Link](https://youtu.be/YOiUuPmjllw)
 
 </br>
@@ -39,7 +39,7 @@ Although there are clear rules for manual diagnosis and assessment of asphalt di
 <img width="944" alt="Screenshot_20230122_174624" src="https://user-images.githubusercontent.com/103782863/222286996-e393b3ef-83db-4acd-bb3d-d82274e10e14.png">
 
 YouTube Video [Link](https://youtu.be/YE0uxKLqgm8)
-
+[Repository Link](https://github.com/nadprime/PotSev)
 
 <b>TEAM NAME - The Alchemists</b>
 
